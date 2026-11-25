@@ -1,0 +1,13 @@
+fever,cough,headache,fatigue,sore_throat,runny_nose,itchy_eyes,label
+1,1,1,1,0,0,0,Demo_Flu_Like
+1,1,1,1,0,0,0,Demo_Flu_Like
+1,1,0,1,1,0,0,Demo_Flu_Like
+0,1,0,0,1,1,0,Demo_Cold_Like
+0,1,0,0,1,1,0,Demo_Cold_Like
+0,0,0,0,0,1,1,Demo_Allergy_Like
+0,0,0,0,0,1,1,Demo_Allergy_Like
+1,1,1,1,0,0,0,Demo_Flu_Like
+0,1,0,0,1,0,0,Demo_Cold_Like
+0,0,0,0,0,1,0,Demo_Allergy_Like
+1,0,1,1,0,0,0,Demo_Flu_Like
+0,1,0,0,0,1,1,Demo_Allergy_Like
