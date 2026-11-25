@@ -4,7 +4,10 @@ chest_xray/
 *.joblib
 *.pkl
 *.csv
-__pycache__/
+*.h5
+*.zip
 .venv/
 venv/
+__pycache__/
+*.pyc
 node_modules/
