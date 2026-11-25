@@ -1,13 +1,23 @@
-ml/
+# Training datasets
 chest_xray/
-*.keras
-*.joblib
-*.pkl
-*.csv
-*.h5
-*.zip
-.venv/
+dataset.csv
+Symptom-severity.csv
+symptom_Description.csv
+symptom_precaution.csv
+symptoms.csv
+
+# Training scripts
+train.py
+train_image_model.py
+check_symptoms.py
+
+# Python environments
 venv/
+.venv/
 __pycache__/
 *.pyc
-node_modules/
+
+# Temporary files
+.ipynb_checkpoints/
+logs/
+*.log
